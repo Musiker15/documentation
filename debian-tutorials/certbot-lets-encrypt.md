@@ -1,3 +1,13 @@
+---
+title: Certbot – Let’s Encrypt
+description: Kostenlose SSL-Zertifikate
+published: true
+date: 2026-04-06T19:17:20.577Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-06T18:50:44.279Z
+---
+
 # Certbot – Let’s Encrypt (kostenlose SSL-Zertifikate)
 
 Es ist eigentlich ziemlich einfach gehalten. Man muss nur Certbot installieren und schon kann man sich SSL Zertifikate kostenlos über Let’s Encrypt holen.
