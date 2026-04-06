@@ -1,8 +1,8 @@
 ---
 title: Sinusbot
-description: 
+description: Sinusbot auf Debian Server installieren
 published: true
-date: 2026-04-06T19:18:59.383Z
+date: 2026-04-06T19:19:49.452Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T18:50:47.314Z
