@@ -1,8 +1,11 @@
 ---
-icon: hand-wave
-cover: >-
-  https://images.unsplash.com/photo-1579267217516-b73084bd79a6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxibHVlfGVufDB8fHx8MTczMDYzNjY0MHww&ixlib=rb-4.0.3&q=85
-coverY: 0
+title: Home
+description: 
+published: true
+date: 2026-04-06T18:53:42.037Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-06T18:50:36.464Z
 ---
 
 # Welcome
