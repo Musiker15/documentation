@@ -1,3 +1,13 @@
+---
+title: Apache2, PHP 8, MariaDB und phpMyAdmin
+description: 
+published: true
+date: 2026-04-06T19:14:39.983Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-06T18:50:42.688Z
+---
+
 # Apache2, PHP 8, MariaDB und phpMyAdmin
 
 ## **PHP Version wechseln**
