@@ -1,3 +1,13 @@
+---
+title: TeamSpeak 3 Server
+description: 
+published: true
+date: 2026-04-06T19:19:17.991Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-06T18:50:48.918Z
+---
+
 # TeamSpeak 3 Server
 
 ## Installation
