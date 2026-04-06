@@ -1,3 +1,13 @@
+---
+title: MariaDB Upgrade auf Debian/Ubuntu Systemen
+description: 
+published: true
+date: 2026-04-06T19:15:10.608Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-06T18:50:45.763Z
+---
+
 # MariaDB Upgrade auf Debian/Ubuntu Systemen
 
 Bei einem MariaDB Upgrade von, z.b. Version 10 auf Version 11, bleiben alle aktuellen Datenbanken bestehen. Es gibt also keinen Datenverlust, alles läuft nach dem Upgrade genauso wie vorher.\
