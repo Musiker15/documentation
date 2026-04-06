@@ -1,3 +1,13 @@
+---
+title: Update von Debian 10 auf Debian 11
+description: 
+published: true
+date: 2026-04-06T19:12:22.321Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-06T18:50:50.443Z
+---
+
 # Update von Debian 10 auf Debian 11
 
 In diesem Tutorial erkläre ich Schritt für Schritt wie man von Debian 10 auf Debian 11 updaten kann.\
